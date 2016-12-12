@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+#La función dime es la que utilizaré para probar el package de demo
+export(dime)
